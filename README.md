@@ -1,3 +1,10 @@
-# besant
-This repo contains devops scripts for performing day to day
-raj besant 
+# node-todo-cicd
+
+sudo apt install nodejs
+sudo apt install npm
+
+
+npm install
+
+node app.js
+
